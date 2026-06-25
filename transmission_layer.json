@@ -1,0 +1,421 @@
+[
+  {
+    "figure": "Ram Mohan Roy",
+    "dates": "1772-1833",
+    "movement": "Brahmo Samaj",
+    "bridges": ["Hindu", "Christian", "Western Liberal"],
+    "concepts_entered": ["brahman", "monotheism", "reason", "social reform", "human dignity"],
+    "concepts_exited": ["idol worship", "caste", "ritual", "sruti authority"],
+    "key_move": "Stripped brahman of ritual context, connected it to Enlightenment rationalism and Unitarian Christianity",
+    "edges_created": [
+      ["brahman", "rational inquiry", "IS_FOUNDATION_OF"],
+      ["brahman", "human dignity", "IMPLIES"],
+      ["vedanta", "monotheism", "PARALLELS"],
+      ["upanishads", "reason", "SUPPORTS"],
+      ["brahman", "social reform", "MOTIVATES"]
+    ]
+  },
+  {
+    "figure": "Debendranath Tagore",
+    "dates": "1817-1905",
+    "movement": "Brahmo Samaj",
+    "bridges": ["Hindu", "Western Liberal"],
+    "concepts_entered": ["brahman", "intuition", "inner experience"],
+    "concepts_exited": ["vedic infallibility", "sruti"],
+    "key_move": "Severed brahman from scriptural authority — direct intuition alone is valid",
+    "edges_created": [
+      ["brahman", "intuition", "KNOWN_THROUGH"],
+      ["inner experience", "brahman", "REVEALS"],
+      ["sruti", "brahman", "NOT_NECESSARY_FOR"]
+    ]
+  },
+  {
+    "figure": "Keshab Chandra Sen",
+    "dates": "1838-1884",
+    "movement": "Brahmo Samaj",
+    "bridges": ["Hindu", "Christian", "Islamic", "Universal"],
+    "concepts_entered": ["brahman", "jesus", "prophet", "universal religion"],
+    "concepts_exited": [],
+    "key_move": "Explicitly brought Jesus and Mohammed as nodes with edges to brahman — first systematic Indian pluralism",
+    "edges_created": [
+      ["jesus", "brahman", "POINTS_TOWARD"],
+      ["prophet", "brahman", "REVEALS"],
+      ["universal religion", "brahman", "GROUNDED_IN"],
+      ["love", "bhakti", "IS_IDENTICAL_TO"]
+    ]
+  },
+  {
+    "figure": "Ramakrishna",
+    "dates": "1836-1886",
+    "movement": "Vedanta / Universal Mysticism",
+    "bridges": ["Hindu", "Buddhist", "Islamic", "Christian", "Tantric"],
+    "concepts_entered": ["samadhi", "kali", "brahman", "allah", "jesus", "nirvikalpa"],
+    "concepts_exited": [],
+    "key_move": "Practised multiple traditions experientially — proposed that all mystical endpoints are the same node",
+    "edges_created": [
+      ["nirvikalpa samadhi", "fana", "IS_IDENTICAL_TO"],
+      ["nirvikalpa samadhi", "mystical union", "IS_IDENTICAL_TO"],
+      ["nirvikalpa samadhi", "nirvana", "IS_IDENTICAL_TO"],
+      ["kali", "brahman", "IS_FORM_OF"],
+      ["all paths", "brahman", "LEAD_TO"],
+      ["love of god", "jnana", "REACHES_SAME_AS"]
+    ]
+  },
+  {
+    "figure": "Vivekananda",
+    "dates": "1863-1902",
+    "movement": "Neo-Vedanta",
+    "bridges": ["Hindu", "Western Science", "Western Liberal", "Universal"],
+    "concepts_entered": ["brahman", "atman", "yoga", "vedanta", "consciousness"],
+    "concepts_exited": [],
+    "key_move": "Translated Advaita into scientific and humanist vocabulary — yoga as experiment, brahman as unified field",
+    "edges_created": [
+      ["brahman", "unified field", "PARALLELS"],
+      ["yoga", "empirical method", "IS_A"],
+      ["atman", "human potential", "GROUNDS"],
+      ["karma", "causality", "IS_A"],
+      ["maya", "relativity", "PARALLELS"],
+      ["vedanta", "universal religion", "PROVIDES"],
+      ["samadhi", "higher consciousness", "IS_A"],
+      ["consciousness", "fundamental reality", "IS"],
+      ["atman", "self realization", "KNOWN_THROUGH"]
+    ]
+  },
+  {
+    "figure": "Helena Blavatsky",
+    "dates": "1831-1891",
+    "movement": "Theosophy",
+    "bridges": ["Hindu", "Buddhist", "Kabbalistic", "Hermetic", "Gnostic"],
+    "concepts_entered": ["karma", "atman", "akasha", "brahman", "monad"],
+    "concepts_exited": [],
+    "key_move": "Synthesised Hindu, Buddhist and Western esoteric traditions into a single Ancient Wisdom framework",
+    "edges_created": [
+      ["karma", "cosmic evolution", "DRIVES"],
+      ["atman", "monad", "IS_IDENTICAL_TO"],
+      ["maya", "lower planes", "CONSISTS_OF"],
+      ["brahman", "the absolute", "IS_IDENTICAL_TO"],
+      ["akasha", "akashic records", "IS_SOURCE_OF"],
+      ["reincarnation", "karma", "GOVERNED_BY"],
+      ["nirvana", "devachan", "PARALLELS"],
+      ["sunyata", "akasha", "PARALLELS"]
+    ]
+  },
+  {
+    "figure": "Henry Olcott",
+    "dates": "1832-1907",
+    "movement": "Theosophy / Buddhist Revival",
+    "bridges": ["Buddhist", "Western Rationalist"],
+    "concepts_entered": ["dhamma", "nirvana", "buddha", "sila"],
+    "concepts_exited": ["superstition", "ritual dependency"],
+    "key_move": "Framed Theravada Buddhism in Protestant rational terms — Buddhism as science of mind",
+    "edges_created": [
+      ["dhamma", "rational ethics", "IS_A"],
+      ["nirvana", "rational goal", "IS_A"],
+      ["meditation", "empirical method", "IS_A"],
+      ["buddha", "rational teacher", "IS_A"],
+      ["sila", "universal ethics", "GROUNDS"]
+    ]
+  },
+  {
+    "figure": "Annie Besant",
+    "dates": "1847-1933",
+    "movement": "Theosophy / Indian Independence",
+    "bridges": ["Hindu", "Western Liberal", "Buddhist", "Universal"],
+    "concepts_entered": ["brahman", "dharma", "karma", "self rule"],
+    "concepts_exited": [],
+    "key_move": "Connected Indian philosophical concepts to political self-determination — karma as basis for swaraj",
+    "edges_created": [
+      ["dharma", "self rule", "MOTIVATES"],
+      ["karma", "justice", "GROUNDS"],
+      ["atman", "political freedom", "IMPLIES"],
+      ["brahman", "equality", "IMPLIES"]
+    ]
+  },
+  {
+    "figure": "Aurobindo",
+    "dates": "1872-1950",
+    "movement": "Integral Yoga",
+    "bridges": ["Hindu", "Western Science", "Evolutionary Theory"],
+    "concepts_entered": ["brahman", "consciousness", "matter", "evolution", "supermind"],
+    "concepts_exited": [],
+    "key_move": "Inverted Shankara — world is real, brahman evolves through matter toward supermind. Connected Darwin to Vedanta.",
+    "edges_created": [
+      ["brahman", "evolution", "EXPRESSES_THROUGH"],
+      ["matter", "consciousness", "ASCENDING_TO"],
+      ["consciousness", "matter", "INVOLUTED_INTO"],
+      ["evolution", "spiritual development", "IS_A"],
+      ["supermind", "brahman", "IS_MANIFESTATION_OF"],
+      ["sunyata", "supermind", "STAGE_BEFORE"],
+      ["nirvana", "supermind", "PARTIAL_REALISATION_OF"],
+      ["yoga", "collective transformation", "AIMS_AT"],
+      ["matter", "sacred", "IS"],
+      ["body", "divine", "BECOMES"]
+    ]
+  },
+  {
+    "figure": "Jiddu Krishnamurti",
+    "dates": "1895-1986",
+    "movement": "Independent / Post-Theosophical",
+    "bridges": ["Hindu", "Buddhist", "Western Psychology"],
+    "concepts_entered": ["thought", "conditioning", "attention", "silence", "relationship"],
+    "concepts_exited": ["guru", "tradition", "method", "moksha as goal", "authority"],
+    "key_move": "Dissolved all paths — proposed direct perception without method. Observer and observed are not separate.",
+    "edges_created": [
+      ["conditioning", "suffering", "CAUSES"],
+      ["thought", "division", "CREATES"],
+      ["the observer", "the observed", "IS_IDENTICAL_TO"],
+      ["silence", "intelligence", "IS"],
+      ["attention", "transformation", "IS"],
+      ["relationship", "self knowledge", "REVEALS"],
+      ["choiceless awareness", "nirvana", "PARALLELS"],
+      ["choiceless awareness", "sahaja samadhi", "PARALLELS"],
+      ["psychological time", "maya", "PARALLELS"],
+      ["conditioning", "karma", "PARALLELS"]
+    ]
+  },
+  {
+    "figure": "Aldous Huxley",
+    "dates": "1894-1963",
+    "movement": "Perennial Philosophy",
+    "bridges": ["Hindu", "Buddhist", "Christian Mystical", "Western Literary"],
+    "concepts_entered": ["brahman", "atman", "nirvana", "mystical union", "consciousness"],
+    "concepts_exited": [],
+    "key_move": "Coined 'perennial philosophy' — proposed that mystical core of all traditions is identical. Made Indian philosophy accessible to Western literary culture.",
+    "edges_created": [
+      ["brahman", "ground of being", "IS_IDENTICAL_TO"],
+      ["atman", "divine spark", "IS_IDENTICAL_TO"],
+      ["nirvana", "mystical union", "IS_IDENTICAL_TO"],
+      ["perennial philosophy", "brahman", "POINTS_TO"],
+      ["mescaline experience", "samadhi", "PARALLELS"],
+      ["consciousness", "fundamental reality", "IS"]
+    ]
+  },
+  {
+    "figure": "Alan Watts",
+    "dates": "1915-1973",
+    "movement": "Zen / Vedanta populariser",
+    "bridges": ["Buddhist", "Hindu", "Western Psychology", "Taoism"],
+    "concepts_entered": ["atman", "brahman", "sunyata", "tao", "self"],
+    "concepts_exited": [],
+    "key_move": "Made non-dualism accessible through analogy and humour. Connected brahman and sunyata directly for Western audiences.",
+    "edges_created": [
+      ["brahman", "sunyata", "PARALLELS"],
+      ["atman", "no self", "REVEALS"],
+      ["tao", "brahman", "PARALLELS"],
+      ["tao", "sunyata", "PARALLELS"],
+      ["self", "universe", "IS_IDENTICAL_TO"],
+      ["non duality", "psychological health", "SUPPORTS"]
+    ]
+  },
+  {
+    "figure": "Chogyam Trungpa",
+    "dates": "1939-1987",
+    "movement": "Tibetan Buddhism / Shambhala",
+    "bridges": ["Buddhist", "Western Psychology", "Western Art"],
+    "concepts_entered": ["sunyata", "vajrayana", "tantra", "buddha nature", "nowness"],
+    "concepts_exited": [],
+    "key_move": "Translated Vajrayana into Western psychological and artistic vocabulary. Introduced 'spiritual materialism' as a critique.",
+    "edges_created": [
+      ["sunyata", "basic goodness", "IS_FOUNDATION_OF"],
+      ["vajrayana", "psychotherapy", "PARALLELS"],
+      ["nowness", "sunyata", "IS_EXPRESSION_OF"],
+      ["spiritual materialism", "maya", "IS_A"],
+      ["buddha nature", "basic goodness", "IS_IDENTICAL_TO"],
+      ["tantra", "transformation of experience", "IS"]
+    ]
+  },
+  {
+    "figure": "Prabhupada",
+    "dates": "1896-1977",
+    "movement": "ISKCON / Gaudiya Vaishnavism",
+    "bridges": ["Vaishnava", "Western Secular", "Global"],
+    "concepts_entered": ["krsna", "bhakti", "krsna consciousness", "lila", "vaikuntha"],
+    "concepts_exited": ["impersonalism", "mayavada"],
+    "key_move": "Globalised Chaitanya's Achintya Bhedabheda. Engaged directly with Western materialism, science, and counterculture.",
+    "edges_created": [
+      ["krsna consciousness", "consciousness", "IS_HIGHEST_FORM_OF"],
+      ["bhakti", "love", "IS"],
+      ["krsna", "supreme person", "IS"],
+      ["lila", "ultimate reality", "IS"],
+      ["impersonalism", "incomplete", "IS"],
+      ["krsna consciousness", "self realization", "IS"],
+      ["karma", "action for krsna", "PURIFIED_BY"],
+      ["sunyata", "incomplete", "IS"],
+      ["brahman", "krsna", "PERSONAL_ASPECT_OF"]
+    ]
+  },
+  {
+    "figure": "Ramana Maharshi",
+    "dates": "1879-1950",
+    "movement": "Advaita / Self-Enquiry",
+    "bridges": ["Hindu", "Buddhist", "Western Psychology"],
+    "concepts_entered": ["atman", "self", "awareness", "silence"],
+    "concepts_exited": [],
+    "key_move": "Who am I? — self-enquiry reaches anatta by investigating atman. Convergence of Advaita and Buddhism through practice.",
+    "edges_created": [
+      ["self enquiry", "anatta", "REACHES"],
+      ["who am i", "no self", "REVEALS"],
+      ["pure awareness", "nirvana", "PARALLELS"],
+      ["pure awareness", "turiya", "IS"],
+      ["sahaja samadhi", "nirvana", "PARALLELS"],
+      ["atman", "no self", "INQUIRY_INTO_REVEALS"],
+      ["silence", "brahman", "IS"],
+      ["heart", "brahman", "IS_SEAT_OF"]
+    ]
+  },
+  {
+    "figure": "Nagarjuna",
+    "dates": "150-250 CE",
+    "movement": "Madhyamaka Buddhism",
+    "bridges": ["Buddhist", "Hindu"],
+    "concepts_entered": ["sunyata", "madhyama", "pratityasamutpada"],
+    "concepts_exited": ["svabhava", "inherent existence"],
+    "key_move": "Engaged Brahmanical categories directly to demolish them. His debate with Hindu schools forced both to sharpen their positions.",
+    "edges_created": [
+      ["sunyata", "brahman", "CRITIQUES"],
+      ["pratityasamutpada", "brahman", "CHALLENGES"],
+      ["sunyata", "maya", "PARALLELS"],
+      ["two truths", "vyavaharika", "INCLUDES"],
+      ["two truths", "paramartha", "INCLUDES"],
+      ["madhyama", "nirguna brahman", "PARALLELS"]
+    ]
+  },
+  {
+    "figure": "Shankara",
+    "dates": "788-820 CE",
+    "movement": "Advaita Vedanta",
+    "bridges": ["Hindu", "Buddhist"],
+    "concepts_entered": ["brahman", "atman", "maya", "moksha"],
+    "concepts_exited": ["multiplicity", "difference as ultimate"],
+    "key_move": "Made brahman the single hub of the entire network. Absorbed and refuted Buddhist concepts — creating the strongest betweenness node in Indian philosophy.",
+    "edges_created": [
+      ["brahman", "atman", "IS_IDENTICAL_TO"],
+      ["maya", "world", "CONSTITUTES"],
+      ["nirguna brahman", "sunyata", "PARALLELS_BUT_DIFFERS"],
+      ["jiva", "brahman", "IS_ULTIMATELY"],
+      ["moksha", "brahman realisation", "IS"]
+    ]
+  },
+  {
+    "figure": "Ramanuja",
+    "dates": "1017-1137 CE",
+    "movement": "Vishishtadvaita",
+    "bridges": ["Hindu Advaita", "Vaishnava Bhakti"],
+    "concepts_entered": ["brahman", "jiva", "ishvara", "bhakti", "prapatti"],
+    "concepts_exited": [],
+    "key_move": "Restored relationship edges that Shankara collapsed into identity. Jiva relates to brahman rather than being brahman.",
+    "edges_created": [
+      ["jiva", "brahman", "BODY_OF"],
+      ["world", "brahman", "BODY_OF"],
+      ["ishvara", "brahman", "IS_WITH_QUALITIES"],
+      ["bhakti", "moksha", "PATH_TO"],
+      ["grace", "moksha", "ENABLES"],
+      ["prapatti", "grace", "INVITES"]
+    ]
+  },
+  {
+    "figure": "Madhva",
+    "dates": "1238-1317 CE",
+    "movement": "Dvaita Vedanta",
+    "bridges": ["Hindu Advaita", "Vaishnava"],
+    "concepts_entered": ["vishnu", "jiva", "dvaita", "pancha bheda"],
+    "concepts_exited": ["identity of jiva and brahman"],
+    "key_move": "Five eternal differences — severed all identity edges. Closest Indian parallel to Calvinist predestination.",
+    "edges_created": [
+      ["jiva", "brahman", "ETERNALLY_DIFFERENT_FROM"],
+      ["vishnu", "brahman", "IS_SUPREME"],
+      ["difference", "ultimate reality", "IS_PART_OF"],
+      ["liberation", "individual soul", "PRESERVES"],
+      ["grace", "liberation", "REQUIRED_FOR"]
+    ]
+  },
+  {
+    "figure": "Chaitanya",
+    "dates": "1486-1534 CE",
+    "movement": "Gaudiya Vaishnavism",
+    "bridges": ["Vaishnava", "Advaita", "Dvaita", "Bhakti"],
+    "concepts_entered": ["krsna", "bhakti", "lila", "achintya bhedabheda", "prema"],
+    "concepts_exited": [],
+    "key_move": "Achintya — the relationship between Krishna and souls is simultaneously one and different, and this exceeds logic. Ecstatic love as highest epistemology.",
+    "edges_created": [
+      ["krsna", "brahman", "IS_PERSONAL_FORM_OF"],
+      ["prema", "moksha", "SURPASSES"],
+      ["lila", "ultimate reality", "IS"],
+      ["achintya bhedabheda", "advaita", "SYNTHESISES"],
+      ["achintya bhedabheda", "dvaita", "SYNTHESISES"],
+      ["ecstasy", "brahman realisation", "IS"],
+      ["love", "knowledge", "SURPASSES"]
+    ]
+  },
+  {
+    "figure": "Patanjali",
+    "dates": "400 CE approx",
+    "movement": "Raja Yoga / Samkhya-Yoga",
+    "bridges": ["Hindu Samkhya", "Buddhist Meditation"],
+    "concepts_entered": ["yoga", "samadhi", "chitta", "purusha", "prakriti"],
+    "concepts_exited": [],
+    "key_move": "Systematised meditation into eight limbs. His dhyana and samadhi stages parallel Buddhist jhana — creating the deepest structural bridge between Hindu and Buddhist practice.",
+    "edges_created": [
+      ["samadhi", "nirvana", "PARALLELS"],
+      ["dhyana", "jhana", "IS_IDENTICAL_TO"],
+      ["chitta vritti nirodha", "nirvana", "PARALLELS"],
+      ["purusha", "atman", "PARALLELS"],
+      ["prakriti", "maya", "PARALLELS"],
+      ["yoga", "buddhist meditation", "STRUCTURALLY_IDENTICAL_TO"]
+    ]
+  },
+  {
+    "figure": "Kabir",
+    "dates": "1440-1518 CE",
+    "movement": "Sant tradition / Bhakti",
+    "bridges": ["Hindu", "Islamic Sufi", "Sikh"],
+    "concepts_entered": ["rama", "allah", "brahman", "satguru", "shabda"],
+    "concepts_exited": ["caste", "ritual", "religious exclusivity"],
+    "key_move": "Ram and Allah are the same. Caste is irrelevant to God. The inner sound (shabda/naad) is the direct path — no temple, no mosque needed.",
+    "edges_created": [
+      ["rama", "allah", "IS_IDENTICAL_TO"],
+      ["brahman", "allah", "IS_IDENTICAL_TO"],
+      ["shabda", "inner sound", "IS"],
+      ["shabda", "logos", "PARALLELS"],
+      ["bhakti", "sufi love", "IS_IDENTICAL_TO"],
+      ["satguru", "grace", "TRANSMITS"],
+      ["inner experience", "scripture", "SURPASSES"]
+    ]
+  },
+  {
+    "figure": "Guru Nanak",
+    "dates": "1469-1539 CE",
+    "movement": "Sikhism",
+    "bridges": ["Hindu", "Islamic", "Sant tradition"],
+    "concepts_entered": ["ik onkar", "satnam", "waheguru", "seva", "sangat"],
+    "concepts_exited": ["caste hierarchy", "ritual efficacy"],
+    "key_move": "One Reality (Ik Onkar) beyond Hindu and Muslim names. Nam simran as universal practice. Created new nodes that bridge both traditions.",
+    "edges_created": [
+      ["ik onkar", "brahman", "PARALLELS"],
+      ["ik onkar", "allah", "PARALLELS"],
+      ["satnam", "brahman", "IS_A"],
+      ["nam simran", "dhikr", "PARALLELS"],
+      ["nam simran", "japa", "PARALLELS"],
+      ["seva", "karma yoga", "IS_A"],
+      ["sangat", "sangha", "PARALLELS"]
+    ]
+  },
+  {
+    "figure": "Rumi",
+    "dates": "1207-1273 CE",
+    "movement": "Sufi Islam",
+    "bridges": ["Islamic Sufi", "Hindu Bhakti", "Universal Mysticism"],
+    "concepts_entered": ["fana", "ishq", "divine love", "the beloved"],
+    "concepts_exited": [],
+    "key_move": "Sufi annihilation (fana) as the Islamic parallel to nirvana and nirvikalpa samadhi. Love as the highest path — parallels bhakti.",
+    "edges_created": [
+      ["fana", "nirvana", "PARALLELS"],
+      ["fana", "nirvikalpa samadhi", "PARALLELS"],
+      ["fana", "anatta", "PARALLELS"],
+      ["ishq", "bhakti", "IS_IDENTICAL_TO"],
+      ["the beloved", "brahman", "PARALLELS"],
+      ["the beloved", "krsna", "PARALLELS"],
+      ["divine love", "prema", "IS_IDENTICAL_TO"]
+    ]
+  }
+]
