@@ -4,10 +4,6 @@
 
 This repository applies graph science and agent-based modeling to the [darshana-graph](https://huggingface.co/datasets/joyboseroy/darshana-graph), a dataset of 28,322 documented philosophical relationships across Hindu, Buddhist, and Jain traditions. Using betweenness centrality, shortest-path traversal, and diffusion simulation, we trace how concepts travel across traditions and which historical figures acted as the critical bridges.
 
-![Sunyata to Krsna Consciousness](examples/anim_sunyata_krsna_co.gif)
-
-*The shortest path from Buddhist emptiness (sunyata) to Krishna Consciousness, stepping through the actual concepts and historical figures that connect them.*
-
 ---
 
 ## The Core Question
