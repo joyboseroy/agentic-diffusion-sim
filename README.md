@@ -1,8 +1,8 @@
 # agentic-diffusion-sim
 
-**How do ideas travel across religions? We built a simulation to find out.**
+**How do ideas travel across religions? We built a network analysis and simulation to find out.**
 
-This repository applies agent-based modeling to the [darshana-graph](https://huggingface.co/datasets/joyboseroy/darshana-graph), a dataset of 28,322 documented philosophical relationships across Hindu, Buddhist, and Jain traditions. The simulation traces how a new concept would spread through the network of Indian philosophy, and which concepts and historical figures act as the critical bridges between traditions.
+This repository applies graph science and agent-based modeling to the [darshana-graph](https://huggingface.co/datasets/joyboseroy/darshana-graph), a dataset of 28,322 documented philosophical relationships across Hindu, Buddhist, and Jain traditions. Using betweenness centrality, shortest-path traversal, and diffusion simulation, we trace how concepts travel across traditions and which historical figures acted as the critical bridges.
 
 ![Sunyata to Krsna Consciousness](examples/anim_sunyata_krsna_co.gif)
 
@@ -12,17 +12,44 @@ This repository applies agent-based modeling to the [darshana-graph](https://hug
 
 ## The Core Question
 
-If a new syncretic idea enters the philosophical network at one tradition, how far does it travel? Does it stay within its tradition of origin, or does it cross over? And if it crosses over, which concepts carry it across?
+If a new syncretic idea enters the philosophical network at one tradition, how far does it travel? Which concepts carry it across tradition boundaries? And which historical figures were the actual bridges?
 
-We answer this by treating every philosophical concept as an agent with a belief score, letting agents influence their neighbors every timestep, and measuring adoption rates under different seeding strategies.
+We answer this through three tools applied to the same graph:
 
-The method is based on a 2025 PhD dissertation on social network diffusion (*Essays in Social Networks, Behavior Change and Technology Adoption*, Krishnan, University of Michigan), applied here to a real philosophical concept graph.
+- **Betweenness centrality analysis** to identify which concepts are the structural highway junctions
+- **Shortest-path traversal** to find the actual routes between traditions
+- **Agent-based diffusion simulation** to model how belief spreads dynamically over time
+
+The centrality and path-finding results are the primary contribution. The simulation adds a dynamic lens, using a four-stage belief update model drawn from social network diffusion research (Krishnan, 2025).
 
 ---
 
 ## Key Findings
 
-**Betweenness centrality beats random seeding on real philosophical data.**
+**Finding 1: Brahman dominates the entire network.**
+
+Every one of the top 25 concepts by betweenness centrality is Hindu. Brahman scores 0.38, nearly double the second-place concept (atman at 0.23). No Buddhist, Jain, or Sufi concept appears in the top 25. Any idea that wants to travel cross-tradition has to pass through Vedantic vocabulary first.
+
+This reflects both the historical dominance of Advaita Vedanta in Indian philosophical discourse and the relative abundance of digitized Sanskrit texts compared to Pali or Tibetan sources. Both factors are real and worth acknowledging.
+
+**Finding 2: The shortest paths between traditions are historically meaningful.**
+
+| Journey | Steps | Route |
+|---|---|---|
+| sunyata to krsna consciousness | 2 | sunyata → maya → krsna consciousness |
+| anatta to atman | 2 | anatta → [Ramana Maharshi] → atman |
+| fana to krsna consciousness | 3 | fana → [Ramakrishna] → brahman → krsna consciousness |
+| nirvana to lila | 4 | nirvana → [Aurobindo] → consciousness → [Prabhupada] → lila |
+| ik onkar to nirvana | 3 | ik onkar → brahman → samadhi → nirvana |
+| choiceless awareness to brahman | 3 | choiceless awareness → [Krishnamurti] → maya → brahman |
+
+These paths correspond to actual historical transmission routes. The figures in brackets are the people who carried ideas across traditions in real time.
+
+**Finding 3: Ramakrishna is the most central bridge figure.**
+
+In the combined graph including 24 historical figures, Ramakrishna is one step from nirvana, one step from fana, and one step from brahman simultaneously. He practised Hindu Tantra, Advaita Vedanta, Vaishnavism, Islam, and Christianity personally, making him the most structurally central figure in the entire transmission network.
+
+**Finding 4: Diffusion simulation confirms centrality-based seeding outperforms random.**
 
 On the full 2,349-concept graph after 25 steps:
 
@@ -33,25 +60,11 @@ On the full 2,349-concept graph after 25 steps:
 | Degree | 62.5% |
 | Random | 58.4% |
 
-**Brahman dominates the network.**
-
-Every one of the top 25 concepts by betweenness centrality is Hindu. Brahman scores 0.38, nearly double the second-place concept (atman at 0.23). No Buddhist or Jain concept appears in the top 25. Any idea that wants to travel cross-tradition has to pass through Vedantic vocabulary first.
-
-**The paths are historically meaningful.**
-
-| Journey | Steps | Route |
-|---|---|---|
-| sunyata to krsna consciousness | 2 | sunyata → maya → krsna consciousness |
-| anatta to atman | 2 | anatta → [Ramana Maharshi] → atman |
-| fana to krsna consciousness | 3 | fana → [Ramakrishna] → brahman → krsna consciousness |
-| nirvana to lila | 4 | nirvana → [Aurobindo] → consciousness → [Prabhupada] → lila |
-| ik onkar to nirvana | 3 | ik onkar → brahman → samadhi → nirvana |
+Seeding at structural hubs reaches approximately 4 percentage points more of the network than random seeding. The cascade follows a classic S-curve: slow awareness buildup, sudden tipping point, gradual plateau.
 
 ---
 
 ## Two Layers
-
-The simulation runs on two overlaid graphs.
 
 **Layer 1: Classical concept graph.** Built from the darshana-graph dataset. Nodes are philosophical concepts. Edges are documented relationships between concepts, weighted by frequency. Covers 2,349 concepts and 3,858 unique edges across Hindu, Buddhist, Jain, and other traditions.
 
@@ -65,10 +78,10 @@ The 24 figures: Nagarjuna, Patanjali, Shankara, Ramanuja, Madhva, Kabir, Guru Na
 
 ```
 agentic-diffusion-sim/
-├── run_sim.py                        # Main entry point for generic diffusion sim
+├── run_sim.py                        # Entry point for generic diffusion simulation
 ├── transmission_layer.json           # 24 historical figures, 155 hand-curated edges
 ├── agents/
-│   └── belief_agent.py               # Agent class with math and LLM modes
+│   └── belief_agent.py               # Agent class with math and optional LLM modes
 ├── network/
 │   └── generator.py                  # Graph generation and centrality targeting
 ├── simulation/
@@ -99,7 +112,7 @@ python3 run_sim.py --scenario enterprise        # enterprise AI adoption
 python3 run_sim.py --scenario dharma            # dharma practice diffusion
 ```
 
-**Run the darshana simulation (downloads ~10MB from HuggingFace):**
+**Run the darshana analysis (downloads ~10MB from HuggingFace):**
 ```bash
 # Which concepts are the highway junctions?
 python3 notebooks/darshana_diffusion_v2.py --top_concepts
@@ -109,9 +122,6 @@ python3 notebooks/darshana_diffusion_v2.py --seed_concept brahman --steps 30
 
 # Compare all 4 seeding strategies
 python3 notebooks/darshana_diffusion_v2.py --compare --steps 25
-
-# Faster version with subsampled graph
-python3 notebooks/darshana_diffusion_v2.py --max_nodes 300 --compare --steps 25
 ```
 
 **Find and animate paths between traditions:**
@@ -132,7 +142,7 @@ python3 notebooks/darshana_transmission_viz.py --show_figure "Alan Watts"
 # Distance matrix between all landmark concepts
 python3 notebooks/darshana_transmission_viz.py --all_paths
 
-# Run all 9 preset journeys
+# Run all 9 preset journeys as static images
 python3 notebooks/darshana_transmission_viz.py --preset
 ```
 
@@ -190,19 +200,19 @@ The transmission layer (24 figures, 155 edges): `transmission_layer.json` in thi
   url = {https://github.com/joyboseroy/agentic-diffusion-sim}
 }
 
+@dataset{bose2025darshana,
+  author = {Bose, Joy},
+  title = {darshana-graph: A Knowledge Graph of Indian Philosophy},
+  year = {2025},
+  url = {https://huggingface.co/datasets/joyboseroy/darshana-graph}
+}
+
 @phdthesis{krishnan2025essays,
   author = {Krishnan, Nanjundi Karthick},
   title = {Essays in Social Networks, Behavior Change and Technology Adoption},
   school = {University of Michigan},
   year = {2025},
   url = {https://hdl.handle.net/2027.42/199303}
-}
-
-@dataset{bose2025darshana,
-  author = {Bose, Joy},
-  title = {darshana-graph: A Knowledge Graph of Indian Philosophy},
-  year = {2025},
-  url = {https://huggingface.co/datasets/joyboseroy/darshana-graph}
 }
 ```
 
