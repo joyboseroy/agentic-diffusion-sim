@@ -1,0 +1,1104 @@
+[
+  {
+    "text": "Rigveda",
+    "tradition": "Vedic",
+    "date_early_ce": -1500,
+    "date_late_ce": -1200,
+    "date_label": "1500-1200 BCE",
+    "certainty": "approximate",
+    "citation": "Witzel, M. (1995). Rgvedic history: poets, chieftains and polities. In G. Erdosy (Ed.), The Indo-Aryans of Ancient South Asia. De Gruyter. Estimates 1500-1200 BCE for core Rigvedic hymns.",
+    "concepts_introduced": [
+      {
+        "concept": "rita",
+        "note": "cosmic order, predecessor of dharma"
+      },
+      {
+        "concept": "brahman",
+        "note": "sacred utterance/power, not yet the Upanishadic absolute"
+      },
+      {
+        "concept": "atman",
+        "note": "breath/self, not yet the philosophical absolute self"
+      },
+      {
+        "concept": "maya",
+        "note": "magical power of the gods, Indra's creative illusion \u2014 RV 6.47.18"
+      },
+      {
+        "concept": "yajna",
+        "note": "sacrifice as cosmic principle"
+      },
+      {
+        "concept": "soma",
+        "note": "ritual drink, cosmic principle"
+      }
+    ]
+  },
+  {
+    "text": "Atharvaveda",
+    "tradition": "Vedic",
+    "date_early_ce": -1200,
+    "date_late_ce": -900,
+    "date_label": "1200-900 BCE",
+    "certainty": "approximate",
+    "citation": "Griffith, R.T.H. (1895). Hymns of the Atharvaveda. Scholarly consensus places it later than Rigveda. Whitney, W.D. (1905). Atharva-Veda Samhita. Harvard Oriental Series.",
+    "concepts_introduced": [
+      {
+        "concept": "brahman",
+        "note": "beginning transition toward cosmic principle"
+      },
+      {
+        "concept": "prana",
+        "note": "breath as life principle"
+      }
+    ]
+  },
+  {
+    "text": "Brihadaranyaka Upanishad",
+    "tradition": "Vedic/early Upanishadic",
+    "date_early_ce": -900,
+    "date_late_ce": -600,
+    "date_label": "900-600 BCE",
+    "certainty": "approximate",
+    "citation": "Olivelle, P. (1998). The Early Upanisads. Oxford University Press. Places Brihadaranyaka and Chandogya as the earliest Upanishads, pre-Buddhist, around 800-600 BCE. Also Ranade, R.D. (1926). A Constructive Survey of Upanishadic Philosophy.",
+    "concepts_introduced": [
+      {
+        "concept": "brahman as absolute",
+        "note": "first systematic identification of brahman with ultimate reality \u2014 BAU 1.4.10"
+      },
+      {
+        "concept": "atman as self",
+        "note": "aham brahmasmi \u2014 I am brahman \u2014 BAU 1.4.10"
+      },
+      {
+        "concept": "neti neti",
+        "note": "not this, not this \u2014 negative theology \u2014 BAU 3.9.26"
+      },
+      {
+        "concept": "prajnanam brahma",
+        "note": "consciousness is brahman"
+      },
+      {
+        "concept": "samsara",
+        "note": "cycle of rebirth \u2014 early formulation"
+      },
+      {
+        "concept": "karma",
+        "note": "early Upanishadic karma doctrine \u2014 BAU 3.2.13 \u2014 one of the earliest textual sources"
+      }
+    ]
+  },
+  {
+    "text": "Chandogya Upanishad",
+    "tradition": "Vedic/early Upanishadic",
+    "date_early_ce": -900,
+    "date_late_ce": -600,
+    "date_label": "900-600 BCE",
+    "certainty": "approximate",
+    "citation": "Olivelle, P. (1998). The Early Upanisads. Oxford University Press. Chandogya placed alongside Brihadaranyaka as earliest stratum.",
+    "concepts_introduced": [
+      {
+        "concept": "tat tvam asi",
+        "note": "that thou art \u2014 CU 6.8.7 \u2014 identity of atman and brahman"
+      },
+      {
+        "concept": "sat",
+        "note": "being as ultimate \u2014 CU 6.2.1"
+      }
+    ]
+  },
+  {
+    "text": "Acaranga Sutra",
+    "tradition": "Jain",
+    "date_early_ce": -500,
+    "date_late_ce": -400,
+    "date_label": "500-400 BCE",
+    "certainty": "approximate",
+    "citation": "Jacobi, H. (1884). Jaina Sutras Part I. Sacred Books of the East Vol. 22. Oxford. Scholarly consensus places Acaranga Sutra as the oldest surviving Jain canonical text, contemporary with early Buddhism.",
+    "concepts_introduced": [
+      {
+        "concept": "ahimsa",
+        "note": "non-violence as absolute principle \u2014 foundational Jain ethics"
+      },
+      {
+        "concept": "jiva",
+        "note": "living soul \u2014 Jain technical term distinct from Vedic atman"
+      },
+      {
+        "concept": "ajiva",
+        "note": "non-living matter \u2014 Jain ontological category"
+      },
+      {
+        "concept": "karma as substance",
+        "note": "Jain karma as literal subtle matter binding the soul \u2014 distinct from Vedic karma as ritual action"
+      },
+      {
+        "concept": "moksha as liberation from karma-matter",
+        "note": "Jain moksha \u2014 soul's release from karmic matter"
+      },
+      {
+        "concept": "tapas",
+        "note": "ascetic practice as means of liberation"
+      },
+      {
+        "concept": "moksha",
+        "note": "liberation as soteriological goal \u2014 appears in Jain Acaranga Sutra and early Buddhist texts before Upanishadic formulation \u2014 see Bronkhorst (2007)"
+      }
+    ]
+  },
+  {
+    "text": "Pali Canon \u2014 Vinaya and Nikayas",
+    "tradition": "Theravada Buddhist",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "date_label": "500-300 BCE (Buddha ca. 480-400 BCE)",
+    "certainty": "approximate",
+    "citation": "Gombrich, R. (1988). Theravada Buddhism. Routledge. Dates Buddha to ca. 480-400 BCE. Wynne, A. (2007). The Origin of Buddhist Meditation. Routledge. Norman, K.R. (1983). Pali Literature. Wiesbaden: Harrassowitz.",
+    "concepts_introduced": [
+      {
+        "concept": "anatta",
+        "note": "no-self \u2014 SN 22.59 Anattalakkhana Sutta \u2014 no permanent self in any aggregate"
+      },
+      {
+        "concept": "anicca",
+        "note": "impermanence \u2014 all conditioned phenomena are impermanent"
+      },
+      {
+        "concept": "dukkha",
+        "note": "suffering/unsatisfactoriness \u2014 first noble truth"
+      },
+      {
+        "concept": "nibbana",
+        "note": "Pali for nirvana \u2014 cessation of craving and suffering"
+      },
+      {
+        "concept": "pratityasamutpada",
+        "note": "dependent origination \u2014 SN 12 Nidana-samyutta \u2014 things arise in dependence"
+      },
+      {
+        "concept": "dharma as dhamma",
+        "note": "Buddha's teaching and cosmic law \u2014 distinct from Vedic dharma as ritual duty"
+      },
+      {
+        "concept": "skandhas",
+        "note": "five aggregates \u2014 form sensation perception formations consciousness \u2014 no self found in any"
+      },
+      {
+        "concept": "karma as intentional action",
+        "note": "AN 6.63 \u2014 karma is cetana, intention \u2014 radical reinterpretation away from ritual action"
+      },
+      {
+        "concept": "sangha",
+        "note": "monastic community as third jewel"
+      },
+      {
+        "concept": "sila",
+        "note": "ethical conduct as foundation of practice"
+      },
+      {
+        "concept": "samadhi",
+        "note": "meditative concentration \u2014 jhana stages in Pali canon"
+      },
+      {
+        "concept": "prajna",
+        "note": "wisdom \u2014 third element of noble eightfold path"
+      }
+    ]
+  },
+  {
+    "text": "Samkhyakarika \u2014 Ishvarakrishna",
+    "tradition": "Samkhya",
+    "date_early_ce": 350,
+    "date_late_ce": 450,
+    "date_label": "350-450 CE",
+    "certainty": "approximate",
+    "citation": "Larson, G.J. (1979). Classical Samkhya. Delhi: Motilal Banarsidass. The Samkhyakarika is the earliest surviving systematic Samkhya text though the school is older. Burley, I. (2007). Classical Samkhya and Yoga. Routledge.",
+    "concepts_introduced": [
+      {
+        "concept": "purusha",
+        "note": "pure consciousness \u2014 Samkhya's term for the witnessing self \u2014 distinct from Vedantic atman"
+      },
+      {
+        "concept": "prakriti",
+        "note": "primal nature/matter \u2014 all that is not pure consciousness"
+      },
+      {
+        "concept": "pradhana",
+        "note": "another name for prakriti as primal unmanifest matter \u2014 this is Samkhya not Advaita"
+      },
+      {
+        "concept": "triguna",
+        "note": "three qualities sattva rajas tamas constituting all matter"
+      },
+      {
+        "concept": "viveka",
+        "note": "discriminative knowledge \u2014 distinguishing purusha from prakriti"
+      },
+      {
+        "concept": "mahat",
+        "note": "cosmic intelligence \u2014 first evolute of prakriti"
+      }
+    ]
+  },
+  {
+    "text": "Yogasutra \u2014 Patanjali",
+    "tradition": "Yoga",
+    "date_early_ce": 400,
+    "date_late_ce": 500,
+    "date_label": "400-500 CE",
+    "certainty": "approximate",
+    "citation": "Larson, G.J. & Bhattacharya, R.S. (1987). Samkhya: A Dualist Tradition in Indian Philosophy. Princeton. Philipp Maas (2013). A Concise Historiography of Classical Yoga Philosophy, dates Yogasutra to 4th-5th century CE.",
+    "concepts_introduced": [
+      {
+        "concept": "chitta vritti nirodha",
+        "note": "cessation of mental fluctuations \u2014 YS 1.2 \u2014 definition of yoga"
+      },
+      {
+        "concept": "ashtanga yoga",
+        "note": "eight limbs \u2014 yama niyama asana pranayama pratyahara dharana dhyana samadhi"
+      },
+      {
+        "concept": "ishvara pranidhana",
+        "note": "surrender to Ishvara \u2014 theistic element added to Samkhya dualism"
+      },
+      {
+        "concept": "kaivalya",
+        "note": "aloneness of pure consciousness \u2014 Yoga's term for liberation distinct from Buddhist nirvana and Vedantic moksha"
+      }
+    ]
+  },
+  {
+    "text": "Mulamadhyamakakarika \u2014 Nagarjuna",
+    "tradition": "Madhyamaka Buddhist",
+    "date_early_ce": 150,
+    "date_late_ce": 250,
+    "date_label": "150-250 CE",
+    "certainty": "well-established",
+    "citation": "Kalupahana, D.J. (1986). Nagarjuna: The Philosophy of the Middle Way. SUNY Press. Garfield, J.L. (1995). The Fundamental Wisdom of the Middle Way. Oxford. Scholarly consensus places Nagarjuna at ca. 150-250 CE.",
+    "concepts_introduced": [
+      {
+        "concept": "sunyata as philosophical system",
+        "note": "MMK ch. 24 \u2014 all phenomena empty of svabhava (own-nature) \u2014 systematic Madhyamaka emptiness distinct from earlier Buddhist usage"
+      },
+      {
+        "concept": "svabhava critique",
+        "note": "refutation of inherent existence \u2014 MMK 15 \u2014 direct critique of Brahmanical substance ontology"
+      },
+      {
+        "concept": "two truths doctrine systematic",
+        "note": "MMK 24.8-10 \u2014 samvrti (conventional) and paramartha (ultimate) \u2014 systematic formulation"
+      },
+      {
+        "concept": "pratityasamutpada as sunyata",
+        "note": "MMK 24.18 \u2014 dependent origination IS emptiness \u2014 crucial identification"
+      },
+      {
+        "concept": "critique of atman",
+        "note": "MMK 18 \u2014 explicit philosophical refutation of Brahmanical atman"
+      },
+      {
+        "concept": "prapanca",
+        "note": "conceptual proliferation \u2014 what sunyata is free of"
+      }
+    ]
+  },
+  {
+    "text": "Vijnaptimatratasiddhi \u2014 Vasubandhu / Yogacarabhumi \u2014 Asanga",
+    "tradition": "Yogacara Buddhist",
+    "date_early_ce": 300,
+    "date_late_ce": 400,
+    "date_label": "300-400 CE",
+    "certainty": "approximate",
+    "citation": "Kochumuttom, T.A. (1982). A Buddhist Doctrine of Experience. Delhi: Motilal Banarsidass. Schmithausen, L. (1987). Alayavijnana. Tokyo: International Institute for Buddhist Studies.",
+    "concepts_introduced": [
+      {
+        "concept": "alayavijnana",
+        "note": "storehouse consciousness \u2014 Yogacara's 8th consciousness \u2014 holds karmic seeds \u2014 no Vedantic parallel before this"
+      },
+      {
+        "concept": "vijnaptimatrata",
+        "note": "representation-only \u2014 external world is mental representation \u2014 idealist Buddhist epistemology"
+      },
+      {
+        "concept": "trisvabhava",
+        "note": "three natures \u2014 imagined dependent perfected \u2014 Yogacara ontology"
+      },
+      {
+        "concept": "buddha nature",
+        "note": "tathagatagarbha \u2014 all beings have buddha nature \u2014 Yogacara-related development"
+      }
+    ]
+  },
+  {
+    "text": "Mandukya Karika \u2014 Gaudapada",
+    "tradition": "Pre-Shankara Advaita",
+    "date_early_ce": 500,
+    "date_late_ce": 700,
+    "date_label": "500-700 CE",
+    "certainty": "approximate",
+    "citation": "King, R. (1995). Early Advaita Vedanta and Buddhism. SUNY Press. This is the key text demonstrating Buddhist influence on pre-Shankara Advaita. Karmarkar, R.D. (1953). Gaudapada-karika. Poona.",
+    "concepts_introduced": [
+      {
+        "concept": "ajativada",
+        "note": "doctrine of no-origination \u2014 GK 3 \u2014 directly influenced by Madhyamaka \u2014 Gaudapada uses Buddhist arguments to defend Advaita"
+      },
+      {
+        "concept": "maya as systematic Advaita term",
+        "note": "GK 1.17 \u2014 Gaudapada systematises maya drawing on Buddhist mayopama (illusion-like) \u2014 this is the key moment of Buddhist-to-Vedanta transfer your teacher identified"
+      },
+      {
+        "concept": "drishti-srishti-vada",
+        "note": "perception-creation \u2014 world exists only in perception \u2014 clearly Yogacara influenced"
+      },
+      {
+        "concept": "turiya",
+        "note": "fourth state beyond waking dreaming deep sleep \u2014 systematic formulation"
+      }
+    ]
+  },
+  {
+    "text": "Brahmasutra Bhashya and Upanishad commentaries \u2014 Shankara",
+    "tradition": "Advaita Vedanta",
+    "date_early_ce": 788,
+    "date_late_ce": 820,
+    "date_label": "788-820 CE",
+    "certainty": "well-established",
+    "citation": "Deutsch, E. (1969). Advaita Vedanta: A Philosophical Reconstruction. East-West Center Press. Mayeda, S. (1992). A Thousand Teachings: The Upadesasahasri of Sankara. SUNY Press. Dates 788-820 CE are traditional and accepted by most scholars.",
+    "concepts_introduced": [
+      {
+        "concept": "maya as systematic metaphysics",
+        "note": "Shankara systematises Gaudapada's maya into full cosmological doctrine \u2014 his Vedantin critics (Ramanuja etc) explicitly note the Buddhist origin of this move"
+      },
+      {
+        "concept": "vivartavada",
+        "note": "theory of apparent transformation \u2014 world is apparent modification not real transformation of brahman"
+      },
+      {
+        "concept": "adhyasa",
+        "note": "superimposition \u2014 false attribution of properties \u2014 BSBh intro"
+      },
+      {
+        "concept": "nirguna brahman systematic",
+        "note": "brahman without qualities as ultimate \u2014 building on Upanishads but systematised against Buddhist sunyata"
+      },
+      {
+        "concept": "jiva-brahman identity",
+        "note": "individual soul is ultimately identical to brahman \u2014 mahavakya doctrine systematised"
+      },
+      {
+        "concept": "avidya",
+        "note": "ignorance as root cause of samsara \u2014 Shankara's Advaita reinterpretation borrowing Buddhist avidya"
+      }
+    ]
+  },
+  {
+    "text": "Sri Bhasya \u2014 Ramanuja",
+    "tradition": "Vishishtadvaita",
+    "date_early_ce": 1017,
+    "date_late_ce": 1137,
+    "date_label": "1017-1137 CE",
+    "certainty": "well-established",
+    "citation": "Carman, J.B. (1974). The Theology of Ramanuja. Yale University Press. Lester, R.C. (1976). Ramanuja on the Yoga. Madras: Adyar Library.",
+    "concepts_introduced": [
+      {
+        "concept": "vishishtadvaita",
+        "note": "qualified non-dualism \u2014 brahman as qualified by souls and world as its body"
+      },
+      {
+        "concept": "sharira-shariri bhava",
+        "note": "body-soul relationship between world/souls and brahman"
+      },
+      {
+        "concept": "prapatti",
+        "note": "self-surrender to Ishvara as path \u2014 Sri Vaishnava theology"
+      },
+      {
+        "concept": "saguna brahman as ultimate",
+        "note": "contra Shankara \u2014 brahman with qualities is truly ultimate not a lower level concession"
+      }
+    ]
+  },
+  {
+    "text": "Anuvyakhyana \u2014 Madhva",
+    "tradition": "Dvaita Vedanta",
+    "date_early_ce": 1238,
+    "date_late_ce": 1317,
+    "date_label": "1238-1317 CE",
+    "certainty": "well-established",
+    "citation": "Sharma, B.N.K. (1962). Philosophy of Sri Madhvacarya. Bombay: Bharatiya Vidya Bhavan. Stoker, V. (2016). Polemics and Patronage in the City of Victory. University of California Press.",
+    "concepts_introduced": [
+      {
+        "concept": "pancha bheda",
+        "note": "five eternal differences \u2014 God-soul, God-matter, soul-soul, soul-matter, matter-matter"
+      },
+      {
+        "concept": "svatantra-paratantra",
+        "note": "independent vs dependent reality \u2014 only Vishnu is truly independent"
+      },
+      {
+        "concept": "taratamya",
+        "note": "gradation of souls \u2014 hierarchical ontology of liberated souls"
+      }
+    ]
+  },
+  {
+    "text": "Chaitanya Charitamrita \u2014 Krishnadasa Kaviraja",
+    "tradition": "Gaudiya Vaishnavism",
+    "date_early_ce": 1486,
+    "date_late_ce": 1534,
+    "date_label": "Chaitanya 1486-1534 CE, text ca. 1612",
+    "certainty": "well-established",
+    "citation": "Dimock, E.C. & Stewart, T.K. (1999). Caitanya Caritamrta of Krsnadasa Kaviraja. Harvard Oriental Series. Haberman, D.L. (1988). Acting as a Way of Salvation. Oxford.",
+    "concepts_introduced": [
+      {
+        "concept": "achintya bhedabheda",
+        "note": "inconceivable simultaneous difference and non-difference \u2014 Chaitanya's synthesis"
+      },
+      {
+        "concept": "prema",
+        "note": "divine love as highest goal \u2014 surpassing moksha"
+      },
+      {
+        "concept": "lila as ultimate reality",
+        "note": "Krishna's divine play as the nature of ultimate reality"
+      },
+      {
+        "concept": "rasa theology",
+        "note": "aesthetic-devotional experience as path to the divine"
+      }
+    ]
+  },
+  {
+    "text": "Brahmasutra commentary and Yoga Sutras commentary \u2014 Various Buddhist parallels",
+    "tradition": "Cross-tradition note",
+    "date_early_ce": -400,
+    "date_late_ce": -300,
+    "date_label": "400-300 BCE",
+    "certainty": "contested",
+    "citation": "Bronkhorst, J. (2007). Greater Magadha. Brill. Key thesis: karma, rebirth, and ascetic liberation doctrines originated in the Shramana traditions (Jain and Buddhist) and were absorbed into Brahmanical thought. Larson, G.J. (1969). The Concept of the Body in Samkhya-Yoga. Philosophy East and West. Chapple, C. (1993). Nonviolence to Animals, Earth, and Self in Asian Traditions. SUNY Press.",
+    "concepts_introduced": [
+      {
+        "concept": "karma as ethical causation",
+        "note": "The systematic karmic doctrine as ethical causation (not just ritual efficacy) first appears in Shramana traditions. Bronkhorst (2007) argues this was a Shramana (Jain/Buddhist) innovation absorbed into Brahmanical thought"
+      },
+      {
+        "concept": "moksha as liberation from rebirth",
+        "note": "The concept of liberation from the cycle of rebirth as a soteriological goal appears in Jain and early Buddhist texts before the Upanishadic formulations. See Olivelle (1996) Upanisads, Oxford, who notes the Upanishadic moksha doctrine develops in dialogue with Shramana traditions"
+      },
+      {
+        "concept": "ahimsa in Vedic tradition",
+        "note": "While ahimsa appears in late Vedic texts, its elevation to a supreme principle is widely attributed to Jain and Buddhist influence on Brahmanical thought \u2014 Dundas (2002) The Jains, Routledge"
+      }
+    ]
+  },
+  {
+    "text": "Vimalakirti Nirdesa Sutra and Lankavatara Sutra",
+    "tradition": "Mahayana Buddhist",
+    "date_early_ce": 100,
+    "date_late_ce": 400,
+    "date_label": "100-400 CE",
+    "certainty": "approximate",
+    "citation": "Thurman, R.A.F. (1976). The Holy Teaching of Vimalakirti. Penn State Press. Suzuki, D.T. (1932). The Lankavatara Sutra. Routledge. Red Pine (2004). The Diamond Sutra. Counterpoint.",
+    "concepts_introduced": [
+      {
+        "concept": "tathagatagarbha",
+        "note": "buddha nature \u2014 all beings contain the seed of buddhahood \u2014 Mahayana development"
+      },
+      {
+        "concept": "bodhisattva ideal",
+        "note": "remaining in samsara to liberate all beings \u2014 Mahayana ethics"
+      },
+      {
+        "concept": "upaya",
+        "note": "skillful means \u2014 teachings adapted to the capacity of the listener"
+      },
+      {
+        "concept": "shunyata of shunyata",
+        "note": "emptiness is itself empty \u2014 prevents reification of the concept"
+      }
+    ]
+  },
+  {
+    "text": "Tibetan canon \u2014 Kangyur and Tengyur translations",
+    "tradition": "Vajrayana Buddhist",
+    "date_early_ce": 800,
+    "date_late_ce": 1200,
+    "date_label": "800-1200 CE (translations period)",
+    "certainty": "well-established",
+    "citation": "Kapstein, M.T. (2000). The Tibetan Assimilation of Buddhism. Oxford. Davidson, R.M. (2002). Indian Esoteric Buddhism. Columbia University Press.",
+    "concepts_introduced": [
+      {
+        "concept": "rigpa",
+        "note": "Tibetan \u2014 natural state of awareness \u2014 Dzogchen tradition \u2014 distinct from Indian sunyata though related"
+      },
+      {
+        "concept": "dzogchen",
+        "note": "great perfection \u2014 Nyingma tradition \u2014 primordial purity and spontaneous presence"
+      },
+      {
+        "concept": "tantra as path",
+        "note": "transformation of afflictive emotions rather than renunciation \u2014 Vajrayana method"
+      },
+      {
+        "concept": "tulku",
+        "note": "reincarnated lama \u2014 distinctly Tibetan Buddhist institution"
+      }
+    ]
+  },
+  {
+    "text": "Platform Sutra \u2014 Huineng; Blue Cliff Record",
+    "tradition": "Chan / Zen Buddhist",
+    "date_early_ce": 700,
+    "date_late_ce": 1100,
+    "date_label": "700-1100 CE",
+    "certainty": "approximate",
+    "citation": "Yampolsky, P.B. (1967). The Platform Sutra of the Sixth Patriarch. Columbia University Press. Cleary, T. & Cleary, J.C. (1977). The Blue Cliff Record. Shambhala.",
+    "concepts_introduced": [
+      {
+        "concept": "sudden enlightenment",
+        "note": "Huineng \u2014 enlightenment does not require gradual cultivation \u2014 Chan innovation"
+      },
+      {
+        "concept": "mu",
+        "note": "Zhaozhou's mu \u2014 paradigmatic koan \u2014 no conceptual answer possible"
+      },
+      {
+        "concept": "everyday mind is the way",
+        "note": "Mazu \u2014 the ordinary is already enlightened \u2014 Chan naturalness"
+      }
+    ]
+  },
+  {
+    "text": "Masnavi and Diwan-e-Shams \u2014 Rumi",
+    "tradition": "Sufi Islam",
+    "date_early_ce": 1207,
+    "date_late_ce": 1273,
+    "date_label": "1207-1273 CE",
+    "certainty": "well-established",
+    "citation": "Schimmel, A. (1978). The Triumphal Sun: A Study of the Works of Jalaloddin Rumi. London: Fine Books. Chittick, W.C. (1983). The Sufi Path of Love. SUNY Press.",
+    "concepts_introduced": [
+      {
+        "concept": "fana",
+        "note": "annihilation of self in God \u2014 Sufi technical term \u2014 parallel to but distinct from Buddhist nirvana and Hindu moksha"
+      },
+      {
+        "concept": "ishq",
+        "note": "divine love as cosmic force \u2014 Sufi theology of love"
+      },
+      {
+        "concept": "the beloved",
+        "note": "God as the object of mystical longing \u2014 Sufi poetic theology"
+      }
+    ]
+  },
+  {
+    "text": "Bijak \u2014 Kabir",
+    "tradition": "Sant tradition",
+    "date_early_ce": 1440,
+    "date_late_ce": 1518,
+    "date_label": "1440-1518 CE",
+    "certainty": "approximate",
+    "citation": "Vaudeville, C. (1974). Kabir. Oxford University Press. Hess, L. & Singh, S. (1983). The Bijak of Kabir. San Francisco: North Point Press.",
+    "concepts_introduced": [
+      {
+        "concept": "shabda as inner sound",
+        "note": "inner divine sound as direct path \u2014 Sant synthesis of Nath yoga and Sufi traditions"
+      },
+      {
+        "concept": "nirguna bhakti",
+        "note": "devotion to the formless \u2014 without images or rituals \u2014 Sant tradition synthesis"
+      }
+    ]
+  },
+  {
+    "text": "Guru Granth Sahib",
+    "tradition": "Sikh",
+    "date_early_ce": 1469,
+    "date_late_ce": 1708,
+    "date_label": "Nanak 1469-1539 CE, compilation completed 1708",
+    "certainty": "well-established",
+    "citation": "McLeod, W.H. (1968). Guru Nanak and the Sikh Religion. Oxford University Press. Mandair, A. (2013). Sikhism: A Guide for the Perplexed. Bloomsbury.",
+    "concepts_introduced": [
+      {
+        "concept": "ik onkar",
+        "note": "One Reality \u2014 opening of Guru Granth Sahib \u2014 monotheistic synthesis beyond Hindu-Muslim divide"
+      },
+      {
+        "concept": "waheguru",
+        "note": "Wonderful Lord \u2014 Sikh name for the divine \u2014 not equivalent to either Allah or brahman"
+      },
+      {
+        "concept": "nam simran",
+        "note": "remembrance of the divine name \u2014 Sikh practice synthesising Hindu japa and Sufi dhikr"
+      },
+      {
+        "concept": "seva",
+        "note": "selfless service \u2014 Sikh ethical foundation"
+      }
+    ]
+  },
+  {
+    "text": "Pali Canon (Theravada)",
+    "tradition": "Theravada Buddhist",
+    "date_label": "500-300 BCE",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "certainty": "approximate",
+    "citation": "Norman, K.R. (1983). Pali Literature. Harrassowitz. Gombrich, R. (1988). Theravada Buddhism. Routledge.",
+    "concepts_introduced": [
+      {
+        "concept": "nibbana",
+        "note": "Buddhist liberation concept, cessation of suffering and rebirth"
+      },
+      {
+        "concept": "anatta",
+        "note": "no-self doctrine, denial of permanent individual soul"
+      },
+      {
+        "concept": "anicca",
+        "note": "impermanence of all conditioned phenomena"
+      },
+      {
+        "concept": "dukkha",
+        "note": "suffering, unsatisfactoriness of conditioned existence"
+      },
+      {
+        "concept": "nirvana",
+        "note": "Sanskrit form of nibbana, liberation from cycle of rebirth"
+      }
+    ]
+  },
+  {
+    "text": "Mulamadhyamakakarika \u2014 Nagarjuna",
+    "tradition": "Madhyamaka Buddhist",
+    "date_label": "150-250 CE",
+    "date_early_ce": 150,
+    "date_late_ce": 250,
+    "certainty": "well-established",
+    "citation": "Garfield, J.L. (1995). The Fundamental Wisdom of the Middle Way. Oxford. Kalupahana, D.J. (1986). Nagarjuna: The Philosophy of the Middle Way. SUNY.",
+    "concepts_introduced": [
+      {
+        "concept": "sunyata",
+        "note": "emptiness \u2014 absence of inherent existence in all phenomena"
+      },
+      {
+        "concept": "pratityasamutpada as sunyata",
+        "note": "dependent origination as equivalent to emptiness"
+      },
+      {
+        "concept": "svabhava critique",
+        "note": "critique of inherent nature or essence"
+      },
+      {
+        "concept": "two truths doctrine systematic",
+        "note": "conventional and ultimate truth systematised"
+      },
+      {
+        "concept": "critique of atman",
+        "note": "Madhyamaka critique of the self concept"
+      }
+    ]
+  },
+  {
+    "text": "Yogacarabhumi \u2014 Vasubandhu / Asanga",
+    "tradition": "Yogacara Buddhist",
+    "date_label": "300-400 CE",
+    "date_early_ce": 300,
+    "date_late_ce": 400,
+    "certainty": "approximate",
+    "citation": "Schmithausen, L. (1987). Alayavijnana. IIBS. Powers, J. (1993). Wisdom of Buddha. Dharma Publishing.",
+    "concepts_introduced": [
+      {
+        "concept": "alayavijnana",
+        "note": "storehouse consciousness, repository of karmic seeds"
+      },
+      {
+        "concept": "vijnaptimatrata",
+        "note": "consciousness-only doctrine, mind-only idealism"
+      },
+      {
+        "concept": "tathagatagarbha",
+        "note": "buddha-nature, potential for awakening in all beings"
+      },
+      {
+        "concept": "trisvabhava",
+        "note": "three natures: imagined, dependent, perfected"
+      }
+    ]
+  },
+  {
+    "text": "Yoga Sutras \u2014 Patanjali",
+    "tradition": "Yoga",
+    "date_label": "400-500 CE",
+    "date_early_ce": 400,
+    "date_late_ce": 500,
+    "certainty": "approximate",
+    "citation": "Larson, G.J. (1979). Classical Samkhya. Motilal Banarsidass. Bryant, E. (2009). The Yoga Sutras of Patanjali. North Point Press.",
+    "concepts_introduced": [
+      {
+        "concept": "kaivalya",
+        "note": "liberation as isolation of pure consciousness from matter"
+      },
+      {
+        "concept": "chitta vritti nirodha",
+        "note": "cessation of mental fluctuations as definition of yoga"
+      },
+      {
+        "concept": "ishvara pranidhana",
+        "note": "devotion to the lord as yogic practice"
+      },
+      {
+        "concept": "ashtanga yoga",
+        "note": "eight-limbed path of classical yoga"
+      }
+    ]
+  },
+  {
+    "text": "Pali Canon (Theravada)",
+    "tradition": "Theravada Buddhist",
+    "date_label": "500-300 BCE",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "certainty": "approximate",
+    "citation": "Norman, K.R. (1983). Pali Literature. Harrassowitz. Gombrich, R. (1988). Theravada Buddhism. Routledge.",
+    "concepts_introduced": [
+      {
+        "concept": "nibbana",
+        "note": "Buddhist liberation concept, cessation of suffering and rebirth"
+      },
+      {
+        "concept": "anatta",
+        "note": "no-self doctrine, denial of permanent individual soul"
+      },
+      {
+        "concept": "anicca",
+        "note": "impermanence of all conditioned phenomena"
+      },
+      {
+        "concept": "dukkha",
+        "note": "suffering, unsatisfactoriness of conditioned existence"
+      },
+      {
+        "concept": "nirvana",
+        "note": "Sanskrit form of nibbana, liberation from cycle of rebirth"
+      }
+    ]
+  },
+  {
+    "text": "Mulamadhyamakakarika \u2014 Nagarjuna",
+    "tradition": "Madhyamaka Buddhist",
+    "date_label": "150-250 CE",
+    "date_early_ce": 150,
+    "date_late_ce": 250,
+    "certainty": "well-established",
+    "citation": "Garfield, J.L. (1995). The Fundamental Wisdom of the Middle Way. Oxford. Kalupahana, D.J. (1986). Nagarjuna: The Philosophy of the Middle Way. SUNY.",
+    "concepts_introduced": [
+      {
+        "concept": "sunyata",
+        "note": "emptiness \u2014 absence of inherent existence in all phenomena"
+      },
+      {
+        "concept": "pratityasamutpada as sunyata",
+        "note": "dependent origination as equivalent to emptiness"
+      },
+      {
+        "concept": "svabhava critique",
+        "note": "critique of inherent nature or essence"
+      },
+      {
+        "concept": "two truths doctrine systematic",
+        "note": "conventional and ultimate truth systematised"
+      },
+      {
+        "concept": "critique of atman",
+        "note": "Madhyamaka critique of the self concept"
+      }
+    ]
+  },
+  {
+    "text": "Yogacarabhumi \u2014 Vasubandhu / Asanga",
+    "tradition": "Yogacara Buddhist",
+    "date_label": "300-400 CE",
+    "date_early_ce": 300,
+    "date_late_ce": 400,
+    "certainty": "approximate",
+    "citation": "Schmithausen, L. (1987). Alayavijnana. IIBS. Powers, J. (1993). Wisdom of Buddha. Dharma Publishing.",
+    "concepts_introduced": [
+      {
+        "concept": "alayavijnana",
+        "note": "storehouse consciousness, repository of karmic seeds"
+      },
+      {
+        "concept": "vijnaptimatrata",
+        "note": "consciousness-only doctrine, mind-only idealism"
+      },
+      {
+        "concept": "tathagatagarbha",
+        "note": "buddha-nature, potential for awakening in all beings"
+      },
+      {
+        "concept": "trisvabhava",
+        "note": "three natures: imagined, dependent, perfected"
+      }
+    ]
+  },
+  {
+    "text": "Yoga Sutras \u2014 Patanjali",
+    "tradition": "Yoga",
+    "date_label": "400-500 CE",
+    "date_early_ce": 400,
+    "date_late_ce": 500,
+    "certainty": "approximate",
+    "citation": "Larson, G.J. (1979). Classical Samkhya. Motilal Banarsidass. Bryant, E. (2009). The Yoga Sutras of Patanjali. North Point Press.",
+    "concepts_introduced": [
+      {
+        "concept": "kaivalya",
+        "note": "liberation as isolation of pure consciousness from matter"
+      },
+      {
+        "concept": "chitta vritti nirodha",
+        "note": "cessation of mental fluctuations as definition of yoga"
+      },
+      {
+        "concept": "ishvara pranidhana",
+        "note": "devotion to the lord as yogic practice"
+      },
+      {
+        "concept": "ashtanga yoga",
+        "note": "eight-limbed path of classical yoga"
+      }
+    ]
+  },
+  {
+    "text": "Pali Canon (Theravada)",
+    "tradition": "Theravada Buddhist",
+    "date_label": "500-300 BCE",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "certainty": "approximate",
+    "citation": "Norman 1983; Gombrich 1988",
+    "concepts_introduced": [
+      {
+        "concept": "nibbana",
+        "note": "Buddhist liberation, cessation of rebirth"
+      },
+      {
+        "concept": "anatta",
+        "note": "no-self, denial of permanent soul"
+      },
+      {
+        "concept": "nirvana",
+        "note": "Sanskrit form of nibbana"
+      },
+      {
+        "concept": "dukkha",
+        "note": "suffering, unsatisfactoriness"
+      },
+      {
+        "concept": "anicca",
+        "note": "impermanence of conditioned phenomena"
+      }
+    ]
+  },
+  {
+    "text": "Mulamadhyamakakarika \u2014 Nagarjuna",
+    "tradition": "Madhyamaka Buddhist",
+    "date_label": "150-250 CE",
+    "date_early_ce": 150,
+    "date_late_ce": 250,
+    "certainty": "well-established",
+    "citation": "Garfield 1995; Kalupahana 1986",
+    "concepts_introduced": [
+      {
+        "concept": "sunyata",
+        "note": "emptiness, absence of inherent existence"
+      },
+      {
+        "concept": "pratityasamutpada",
+        "note": "dependent origination"
+      },
+      {
+        "concept": "two truths",
+        "note": "conventional and ultimate truth"
+      },
+      {
+        "concept": "svabhava",
+        "note": "inherent nature, critiqued by Nagarjuna"
+      }
+    ]
+  },
+  {
+    "text": "Yogacarabhumi \u2014 Vasubandhu",
+    "tradition": "Yogacara Buddhist",
+    "date_label": "300-400 CE",
+    "date_early_ce": 300,
+    "date_late_ce": 400,
+    "certainty": "approximate",
+    "citation": "Schmithausen 1987",
+    "concepts_introduced": [
+      {
+        "concept": "alayavijnana",
+        "note": "storehouse consciousness"
+      },
+      {
+        "concept": "tathagatagarbha",
+        "note": "buddha-nature"
+      },
+      {
+        "concept": "vijnaptimatrata",
+        "note": "consciousness-only"
+      }
+    ]
+  },
+  {
+    "text": "Yoga Sutras \u2014 Patanjali",
+    "tradition": "Yoga",
+    "date_label": "400-500 CE",
+    "date_early_ce": 400,
+    "date_late_ce": 500,
+    "certainty": "approximate",
+    "citation": "Larson 1979; Bryant 2009",
+    "concepts_introduced": [
+      {
+        "concept": "kaivalya",
+        "note": "liberation as isolation of consciousness"
+      },
+      {
+        "concept": "chitta vritti nirodha",
+        "note": "cessation of mental fluctuations"
+      }
+    ]
+  },
+  {
+    "text": "Pali Canon \u2014 Theravada (practice and psychology terms)",
+    "tradition": "Theravada Buddhist",
+    "date_label": "500-300 BCE",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "certainty": "approximate",
+    "citation": "Bodhi, B. (2000). The Connected Discourses of the Buddha. Wisdom Publications. Norman, K.R. (1983). Pali Literature. Harrassowitz.",
+    "concepts_introduced": [
+      {
+        "concept": "nirodha",
+        "note": "cessation \u2014 third noble truth, the goal of practice"
+      },
+      {
+        "concept": "nivarana",
+        "note": "hindrances \u2014 five mental factors obstructing meditation"
+      },
+      {
+        "concept": "asrava",
+        "note": "taints/outflows \u2014 what liberation eliminates (asava in Pali)"
+      },
+      {
+        "concept": "tanha",
+        "note": "craving \u2014 second noble truth, origin of suffering"
+      },
+      {
+        "concept": "vedana",
+        "note": "feeling-tone \u2014 pleasant, unpleasant, neutral; basis of reactivity"
+      },
+      {
+        "concept": "cetana",
+        "note": "intention \u2014 the volitional factor that constitutes karma"
+      },
+      {
+        "concept": "upadana",
+        "note": "clinging \u2014 fourth nidana, sustains rebirth"
+      },
+      {
+        "concept": "vipassana",
+        "note": "insight meditation \u2014 direct seeing of three characteristics"
+      },
+      {
+        "concept": "metta",
+        "note": "loving-kindness \u2014 first brahmavihara (maitri in Sanskrit)"
+      },
+      {
+        "concept": "karuna",
+        "note": "compassion \u2014 second brahmavihara"
+      },
+      {
+        "concept": "citta",
+        "note": "mind/consciousness \u2014 the knowing faculty"
+      },
+      {
+        "concept": "avijja",
+        "note": "ignorance \u2014 root cause of suffering (avidya in Sanskrit)"
+      },
+      {
+        "concept": "kamma",
+        "note": "intentional action \u2014 Pali form of karma"
+      },
+      {
+        "concept": "dhamma",
+        "note": "phenomenon/teaching \u2014 Pali form of dharma"
+      },
+      {
+        "concept": "sila",
+        "note": "ethical conduct \u2014 first element of threefold training"
+      },
+      {
+        "concept": "moha",
+        "note": "delusion \u2014 one of three roots of unskillful action"
+      },
+      {
+        "concept": "lobha",
+        "note": "greed \u2014 first root of unskillful action"
+      },
+      {
+        "concept": "dosa",
+        "note": "aversion/hatred \u2014 second root of unskillful action"
+      }
+    ]
+  },
+  {
+    "text": "Pali Canon \u2014 Anguttara/Samyutta Nikaya (bojjhanga)",
+    "tradition": "Theravada Buddhist",
+    "date_label": "500-300 BCE",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "certainty": "approximate",
+    "citation": "Bodhi, B. (2012). The Numerical Discourses of the Buddha. Wisdom Publications.",
+    "concepts_introduced": [
+      {
+        "concept": "bodhyanga",
+        "note": "factors of enlightenment \u2014 seven qualities leading to awakening (bojjhanga in Pali)"
+      }
+    ]
+  },
+  {
+    "text": "Dhammapada / early Pali Canon \u2014 meditation",
+    "tradition": "Theravada Buddhist",
+    "date_label": "500-300 BCE",
+    "date_early_ce": -500,
+    "date_late_ce": -300,
+    "certainty": "approximate",
+    "citation": "Cousins, L.S. (1973). Buddhist Jhana: its nature and attainment. Religion 3(2).",
+    "concepts_introduced": [
+      {
+        "concept": "jhana",
+        "note": "meditative absorption \u2014 Pali form of dhyana; the Buddha's core meditation teaching"
+      },
+      {
+        "concept": "dhyana",
+        "note": "meditation \u2014 Sanskrit form; systematic cultivation of concentrated awareness"
+      }
+    ]
+  },
+  {
+    "text": "Yogacara / Mahayana \u2014 obscurations",
+    "tradition": "Yogacara Buddhist",
+    "date_label": "300-400 CE",
+    "date_early_ce": 300,
+    "date_late_ce": 400,
+    "certainty": "approximate",
+    "citation": "Conze, E. (1962). Buddhist Thought in India. Allen and Unwin.",
+    "concepts_introduced": [
+      {
+        "concept": "avarana",
+        "note": "obscurations \u2014 kleshavaranas (afflictive) and jneyavaranas (cognitive); what liberation removes"
+      }
+    ]
+  }
+]
