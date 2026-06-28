@@ -108,6 +108,16 @@ python3 extract_texts.py \
 # Merge expanded graph
 cat darshana_graph_original.jsonl mahayana_edges.jsonl pali_edges.jsonl \
     > darshana_graph_v3.jsonl
+
+# Step 5: Extract from Jain canonical texts
+python3 extract_jain.py \
+    --dir /path/to/jain/pdfs \
+    --output jain_edges.jsonl
+
+# Build v4 with all traditions
+cat darshana_graph_original.jsonl mahayana_edges.jsonl \
+    pali_edges.jsonl jain_edges_clean.jsonl \
+    > darshana_graph_v4.jsonl
 ```
 
 ---
@@ -129,6 +139,7 @@ darshana-temporal-analysis/
 │   ├── cluster_occurrences_v3.py       # Cluster occurrences into philosophical senses
 │   ├── extract_texts.py                # Extract edges from new source PDFs/texts
 │   ├── fix_occurrences.py              # Merge Pali-Sanskrit equivalents
+│   ├── extract_jain.py                 # Extract edges from Jain canonical PDFs
 │   └── graph_loader.py                 # Load graph from local file or HuggingFace
 ├── notebooks/                          # Study 3
 │   ├── darshana_diffusion_v2.py        # Darshana diffusion simulation
@@ -163,10 +174,15 @@ darshana-temporal-analysis/
 | temporal_source_layer.json | `temporal/` | — | 40 scholarly sources, ~120 concept-datings |
 | transmission_layer.json | repo root | — | 24 historical figures, 155 transmission edges |
 | homologues_v7.json | `temporal/` | — | Top-200 cross-tradition structural homologue pairs |
+| jain_edges.jsonl | [HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) | 3,659 | Jain canonical extraction — Tattvarthasutra, Samayasara, Acaranga Sutra. School label: jainism. |
+| non_vedic_edges.jsonl | [HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) | 21,257 | Buddhist + Jain combined — for cross-tradition analysis without Vedantic corpus. |
+| darshana-graph v4 | [HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) | 48,814 | v1 + Mahayana + Theravada + Jain canonical. Most complete version. |
 
 **Mahayana source texts extracted:** Heart Sutra (Hsuan Hua commentary), Mulamadhyamakakarika (Kalupahana), Lankavatara Sutra (Suzuki), Lotus Sutra, Vimalakirti Nirdesa Sutra, Bodhicaryavatara (Shantideva/Wallace), Platform Sutra, Treasury of Mahayana Sutras (Maharatnakuta), Surangama Sutra, Diamond Sutra commentary, Ksitigarbha Sutra, Three Pure Land Sutras.
 
 **Theravada source texts extracted:** 15 text files covering Majjhima Nikaya and Samyutta Nikaya (Nidana-samyutta). Full Pali re-extraction with school labels is planned for v4.
+
+**Jain source texts extracted:** Tattvarthasutra (Umasvami/Pujyapada, Vijay K. Jain translation), Samayasara (Kundakunda, Sacred Books of the Jainas), Acaranga Sutra (Mahendrakumar Muni translation), Agama Introduction Booklet.
 
 ---
 
