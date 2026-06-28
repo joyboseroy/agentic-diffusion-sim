@@ -79,6 +79,7 @@ Moves from a lexical graph (one node per word) toward a sense-disambiguated grap
 - Maya: 5 senses (Vedic magical power, Advaita cosmic illusion, Dvaita divine power, Mahayana, Yogacara)
 - Avidya: 5 senses separating Buddhist (avijja) from Advaita usage
 - Darshana-graph expanded from 28,322 to 45,155 edges by adding Mahayana Buddhist and Theravada sources with correct school labels
+- Running betweenness centrality on the Buddhist-only graph (buddhist_edges.jsonl, 16,833 edges) produces a strikingly different top-25 from the original Vedanta-dominated graph. Pratityasamutpada ranks first (0.155), followed by prajna (0.141), sunyata (0.119), anatta (0.111), and nirvana (0.111). Brahman appears at rank 23 (0.013), present only as a concept Buddhist texts reference in critique. This contrast quantifies the corpus composition bias the paper documents.
 
 ```bash
 cd diachronic/
