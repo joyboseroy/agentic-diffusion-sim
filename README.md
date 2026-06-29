@@ -195,6 +195,7 @@ darshana-temporal-analysis/
 | [bengal-dharma-corpus](https://github.com/joyboseroy/bengal-dharma-corpus) | Computational study of Bengali religious lexicon |
 | [digital-buddhism](https://github.com/joyboseroy/digital-buddhism) | Buddhist teacher network analysis on Reddit |
 | [falkor-irac](https://github.com/joyboseroy/falkor-irac) | Graph-RAG legal reasoning |
+| [buddhist-philosophy-graph](https://huggingface.co/datasets/joyboseroy/buddhist-philosophy-graph) | Standalone Buddhist philosophy graph — 54,320 edges across 9 schools |
 
 ---
 
