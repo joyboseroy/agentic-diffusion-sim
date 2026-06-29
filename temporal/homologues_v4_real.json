@@ -1,0 +1,1602 @@
+[
+  {
+    "rank": 1,
+    "sim": 0.9897169612141321,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 2,
+    "sim": 0.9850008855965254,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 3,
+    "sim": 0.9766846302605182,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 4,
+    "sim": 0.9737456676242938,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 5,
+    "sim": 0.9723502419075267,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 6,
+    "sim": 0.9686195840055303,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "lobha",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 7,
+    "sim": 0.9661729061815061,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 8,
+    "sim": 0.9602905215542179,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 9,
+    "sim": 0.9591617758468411,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 10,
+    "sim": 0.9535918309104094,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 11,
+    "sim": 0.9521129788448358,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 12,
+    "sim": 0.9519773295068692,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 13,
+    "sim": 0.9499184315194915,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "prajna",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 14,
+    "sim": 0.9492371574601356,
+    "concept_a": "tapas",
+    "tradition_a": "Jain",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 15,
+    "sim": 0.9441045623466843,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 16,
+    "sim": 0.9440074483942792,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 17,
+    "sim": 0.9417815762114712,
+    "concept_a": "moksha",
+    "tradition_a": "Jain",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 18,
+    "sim": 0.9415118114557607,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 19,
+    "sim": 0.9398868716512239,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 20,
+    "sim": 0.9375626234895181,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 21,
+    "sim": 0.9374957627925853,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 22,
+    "sim": 0.9373859126523677,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 23,
+    "sim": 0.9369778257851475,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 24,
+    "sim": 0.9331005289988133,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 25,
+    "sim": 0.931886490115886,
+    "concept_a": "moksha",
+    "tradition_a": "Jain",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 26,
+    "sim": 0.9312491449559419,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 27,
+    "sim": 0.9291136435226898,
+    "concept_a": "tapas",
+    "tradition_a": "Jain",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 28,
+    "sim": 0.9281717302682001,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 29,
+    "sim": 0.9268997262971437,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 30,
+    "sim": 0.9266554286664205,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 31,
+    "sim": 0.9253137682555789,
+    "concept_a": "ahimsa",
+    "tradition_a": "Jain",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 32,
+    "sim": 0.9231216916774659,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 33,
+    "sim": 0.9226129265128339,
+    "concept_a": "cetana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "ajiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 34,
+    "sim": 0.9222605283816369,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 35,
+    "sim": 0.9219398322593512,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 36,
+    "sim": 0.9217949674673335,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "nirodha",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 37,
+    "sim": 0.9207594017695366,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 38,
+    "sim": 0.9205563239468393,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 39,
+    "sim": 0.9200413039999633,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 40,
+    "sim": 0.9185442176878399,
+    "concept_a": "vedana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 41,
+    "sim": 0.9170140406053147,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 42,
+    "sim": 0.9159398538778264,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 43,
+    "sim": 0.9155093577905674,
+    "concept_a": "dvesha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 44,
+    "sim": 0.9152883507344712,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "sila",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 45,
+    "sim": 0.9147280174683876,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 46,
+    "sim": 0.9141820323540834,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 47,
+    "sim": 0.9137619579296841,
+    "concept_a": "tapas",
+    "tradition_a": "Jain",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 48,
+    "sim": 0.9130447347139011,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 49,
+    "sim": 0.9128436424133516,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 50,
+    "sim": 0.912556979108351,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 51,
+    "sim": 0.9117561956449194,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 52,
+    "sim": 0.9101629946899443,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 53,
+    "sim": 0.9082996427069554,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 54,
+    "sim": 0.9082346215030351,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "citta",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 55,
+    "sim": 0.9074016867086423,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 56,
+    "sim": 0.9073415108723601,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 57,
+    "sim": 0.9071630316678833,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "turiya",
+    "tradition_b": "Hindu/Advaita"
+  },
+  {
+    "rank": 58,
+    "sim": 0.9068238375823818,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 59,
+    "sim": 0.9058141879706618,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "tat tvam asi",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 60,
+    "sim": 0.904509917565557,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 61,
+    "sim": 0.9036457028953981,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 62,
+    "sim": 0.9032409719133072,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 63,
+    "sim": 0.8997650429703297,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 64,
+    "sim": 0.8985648044205746,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 65,
+    "sim": 0.8970995965193916,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "viveka",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 66,
+    "sim": 0.8951983738029744,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 67,
+    "sim": 0.8950803230058642,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "samadhi",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 68,
+    "sim": 0.8943568794399871,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 69,
+    "sim": 0.8914210089669474,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 70,
+    "sim": 0.8908847892077835,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 71,
+    "sim": 0.8903501166960553,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 72,
+    "sim": 0.8892980658875522,
+    "concept_a": "citta",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 73,
+    "sim": 0.8878773854328236,
+    "concept_a": "moksha",
+    "tradition_a": "Jain",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 74,
+    "sim": 0.8873709681066474,
+    "concept_a": "ahimsa",
+    "tradition_a": "Jain",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 75,
+    "sim": 0.8858732560238387,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "turiya",
+    "tradition_b": "Hindu/Advaita"
+  },
+  {
+    "rank": 76,
+    "sim": 0.885609923574228,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 77,
+    "sim": 0.8855499522265744,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 78,
+    "sim": 0.884881099400065,
+    "concept_a": "ahimsa",
+    "tradition_a": "Jain",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 79,
+    "sim": 0.8848578654680309,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 80,
+    "sim": 0.8847007788211261,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 81,
+    "sim": 0.8844979882486588,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 82,
+    "sim": 0.8833546306176312,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 83,
+    "sim": 0.8831422351642618,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "turiya",
+    "tradition_b": "Hindu/Advaita"
+  },
+  {
+    "rank": 84,
+    "sim": 0.8801369970410189,
+    "concept_a": "tapas",
+    "tradition_a": "Jain",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 85,
+    "sim": 0.8790195605442088,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 86,
+    "sim": 0.8786507222530948,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "turiya",
+    "tradition_b": "Hindu/Advaita"
+  },
+  {
+    "rank": 87,
+    "sim": 0.8766705152853579,
+    "concept_a": "tapas",
+    "tradition_a": "Jain",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 88,
+    "sim": 0.8758515744021989,
+    "concept_a": "citta",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 89,
+    "sim": 0.8757346099523383,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 90,
+    "sim": 0.8755308346458539,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 91,
+    "sim": 0.8755139837010667,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 92,
+    "sim": 0.8748930072091858,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "vedana",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 93,
+    "sim": 0.8736956834832297,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 94,
+    "sim": 0.8730594328501077,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 95,
+    "sim": 0.8722959808915464,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 96,
+    "sim": 0.8718327253358087,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 97,
+    "sim": 0.8717392200812183,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 98,
+    "sim": 0.8710347131619618,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 99,
+    "sim": 0.8709361560118272,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 100,
+    "sim": 0.8705867762522361,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 101,
+    "sim": 0.8701883796308361,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 102,
+    "sim": 0.8688160274127426,
+    "concept_a": "cetana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 103,
+    "sim": 0.8670934770823461,
+    "concept_a": "moksha",
+    "tradition_a": "Jain",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 104,
+    "sim": 0.8658701679081549,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 105,
+    "sim": 0.8651952007649235,
+    "concept_a": "ahimsa",
+    "tradition_a": "Jain",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 106,
+    "sim": 0.8651190911813823,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "viveka",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 107,
+    "sim": 0.8648378108748781,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 108,
+    "sim": 0.8641628197872504,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 109,
+    "sim": 0.8618709756426353,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "viveka",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 110,
+    "sim": 0.8602067656105189,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 111,
+    "sim": 0.8599139565136912,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 112,
+    "sim": 0.8566631440905249,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 113,
+    "sim": 0.8564618125274567,
+    "concept_a": "nirodha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 114,
+    "sim": 0.8564105831837734,
+    "concept_a": "lobha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 115,
+    "sim": 0.8561194170669002,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 116,
+    "sim": 0.8560757589170092,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 117,
+    "sim": 0.8542544601709874,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 118,
+    "sim": 0.8539616563768498,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "turiya",
+    "tradition_b": "Hindu/Advaita"
+  },
+  {
+    "rank": 119,
+    "sim": 0.8538089384350447,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 120,
+    "sim": 0.8519958266839935,
+    "concept_a": "sila",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 121,
+    "sim": 0.8519396193624058,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 122,
+    "sim": 0.8517057542418003,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "pradhana",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 123,
+    "sim": 0.8505016694926475,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 124,
+    "sim": 0.8497597769064938,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 125,
+    "sim": 0.8493564320076459,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 126,
+    "sim": 0.8492920077481846,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 127,
+    "sim": 0.848587922240752,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 128,
+    "sim": 0.8485044313544203,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 129,
+    "sim": 0.8484757279611523,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 130,
+    "sim": 0.8483240251166225,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 131,
+    "sim": 0.8476791366650034,
+    "concept_a": "ahimsa",
+    "tradition_a": "Jain",
+    "concept_b": "tat tvam asi",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 132,
+    "sim": 0.8471044813431745,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 133,
+    "sim": 0.8462731449883112,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 134,
+    "sim": 0.844860194239411,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 135,
+    "sim": 0.8442197151388574,
+    "concept_a": "tapas",
+    "tradition_a": "Jain",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 136,
+    "sim": 0.8438695424788145,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 137,
+    "sim": 0.8401095925017297,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 138,
+    "sim": 0.8400275014240178,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 139,
+    "sim": 0.8398766463506335,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 140,
+    "sim": 0.8393914958366835,
+    "concept_a": "moksha",
+    "tradition_a": "Jain",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 141,
+    "sim": 0.8391524630321641,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 142,
+    "sim": 0.8390996820607347,
+    "concept_a": "nirvana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "ajiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 143,
+    "sim": 0.8386592089479814,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "pradhana",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 144,
+    "sim": 0.8374032010273575,
+    "concept_a": "dharma",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 145,
+    "sim": 0.8371493500181102,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 146,
+    "sim": 0.835587988238049,
+    "concept_a": "sunyata",
+    "tradition_a": "Buddhist/Mahayana",
+    "concept_b": "dvesha",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 147,
+    "sim": 0.8339771326440463,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "viveka",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 148,
+    "sim": 0.8328248414681159,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 149,
+    "sim": 0.8321774443575163,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 150,
+    "sim": 0.8316722491030227,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 151,
+    "sim": 0.8309016348897296,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 152,
+    "sim": 0.8307677008268323,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 153,
+    "sim": 0.830237798277198,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 154,
+    "sim": 0.826237301352613,
+    "concept_a": "ahimsa",
+    "tradition_a": "Jain",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 155,
+    "sim": 0.8254029695772662,
+    "concept_a": "moha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 156,
+    "sim": 0.824991629754051,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 157,
+    "sim": 0.8227436655353719,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 158,
+    "sim": 0.8225829935368194,
+    "concept_a": "mahat",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 159,
+    "sim": 0.8213949160243438,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "mahat",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 160,
+    "sim": 0.8208516122337648,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 161,
+    "sim": 0.8205848555971048,
+    "concept_a": "anatta",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 162,
+    "sim": 0.8201177167379581,
+    "concept_a": "pradhana",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 163,
+    "sim": 0.8187316757045503,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 164,
+    "sim": 0.8167251868933855,
+    "concept_a": "pradhana",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 165,
+    "sim": 0.8151072790556599,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 166,
+    "sim": 0.8144101747530084,
+    "concept_a": "viveka",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 167,
+    "sim": 0.8141451164744395,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "moha",
+    "tradition_b": "Buddhist/Theravada"
+  },
+  {
+    "rank": 168,
+    "sim": 0.8135417573047956,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 169,
+    "sim": 0.8134792879902469,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "tat tvam asi",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 170,
+    "sim": 0.813441819202966,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 171,
+    "sim": 0.8132237208824814,
+    "concept_a": "citta",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 172,
+    "sim": 0.8128066858691387,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 173,
+    "sim": 0.8127312307839152,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "tat tvam asi",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 174,
+    "sim": 0.8125539991713863,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 175,
+    "sim": 0.8120770250418432,
+    "concept_a": "samadhi",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "moksha",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 176,
+    "sim": 0.8120269293999687,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 177,
+    "sim": 0.8104126204749833,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 178,
+    "sim": 0.8095724333822434,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 179,
+    "sim": 0.8062350187574145,
+    "concept_a": "tanha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 180,
+    "sim": 0.8058011598594654,
+    "concept_a": "turiya",
+    "tradition_a": "Hindu/Advaita",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 181,
+    "sim": 0.8057524790945118,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 182,
+    "sim": 0.8054412822630562,
+    "concept_a": "sila",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "tapas",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 183,
+    "sim": 0.8035425143304418,
+    "concept_a": "svabhava",
+    "tradition_a": "Buddhist/Madhyamaka",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 184,
+    "sim": 0.8022798033488406,
+    "concept_a": "nibbana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prakriti",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 185,
+    "sim": 0.8018218612779618,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 186,
+    "sim": 0.8014239773274383,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 187,
+    "sim": 0.8012656456769013,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "purusha",
+    "tradition_b": "Hindu/Samkhya"
+  },
+  {
+    "rank": 188,
+    "sim": 0.8010477349368615,
+    "concept_a": "prakriti",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 189,
+    "sim": 0.8001428414608273,
+    "concept_a": "dukkha",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "jiva",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 190,
+    "sim": 0.7984964494536855,
+    "concept_a": "purusha",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "ahimsa",
+    "tradition_b": "Jain"
+  },
+  {
+    "rank": 191,
+    "sim": 0.7962634827952995,
+    "concept_a": "bhakti",
+    "tradition_a": "Sant",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 192,
+    "sim": 0.795949169574382,
+    "concept_a": "pratityasamutpada",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "prana",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 193,
+    "sim": 0.7954623504487213,
+    "concept_a": "prajna",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "maya",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 194,
+    "sim": 0.7946561492929425,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "karma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 195,
+    "sim": 0.7919693876086454,
+    "concept_a": "mahat",
+    "tradition_a": "Hindu/Samkhya",
+    "concept_b": "soma",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 196,
+    "sim": 0.790801560761633,
+    "concept_a": "avidya",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "yajna",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 197,
+    "sim": 0.7905261166597108,
+    "concept_a": "upadana",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "samsara",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 198,
+    "sim": 0.7891542286336041,
+    "concept_a": "jiva",
+    "tradition_a": "Jain",
+    "concept_b": "sat",
+    "tradition_b": "Vedic"
+  },
+  {
+    "rank": 199,
+    "sim": 0.7887347391396434,
+    "concept_a": "moksha",
+    "tradition_a": "Jain",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  },
+  {
+    "rank": 200,
+    "sim": 0.7875544622099228,
+    "concept_a": "citta",
+    "tradition_a": "Buddhist/Theravada",
+    "concept_b": "bhakti",
+    "tradition_b": "Sant"
+  }
+]
