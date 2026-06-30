@@ -7,6 +7,11 @@ This repository contains the code, data, and experiments supporting the paper:
 > **Attribution Bias in Philosophical Knowledge Graphs: Corpus Frequency versus Temporal Sourcing**
 > Joy Bose — arXiv:2606.29070
 
+This is a follow-up to the original dataset paper:
+
+> **Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses**
+> Joy Bose — arXiv:2606.18222
+
 The paper argues that corpus-frequency attribution systematically misattributes philosophical concepts to later, textually dominant schools, demonstrates this using the [darshana-graph](https://huggingface.co/datasets/joyboseroy/darshana-graph), and shows that temporal attribution enables a new class of cross-tradition structural analysis.
 
 ---
@@ -81,6 +86,7 @@ Moves from a lexical graph (one node per word) toward a sense-disambiguated grap
 - Darshana-graph expanded from 28,322 to 45,155 edges by adding Mahayana Buddhist and Theravada sources with correct school labels
 - Running betweenness centrality on the Buddhist-only graph (buddhist_edges.jsonl, 16,833 edges) produces a strikingly different top-25 from the original Vedanta-dominated graph. Pratityasamutpada ranks first (0.155), followed by prajna (0.141), sunyata (0.119), anatta (0.111), and nirvana (0.111). Brahman appears at rank 23 (0.013), present only as a concept Buddhist texts reference in critique. This contrast quantifies the corpus composition bias the paper documents.
 - Jain-only betweenness centrality places jiva (0.286) at the network centre, followed by samyak darshana (0.135), ahimsa (0.130), and moksha (0.090) — the actual architecture of Jain soteriology. The three-way comparison of Hindu-only, Buddhist-only, and Jain-only betweenness demonstrates that the same graph methodology produces completely different philosophical maps depending on which tradition's texts supply the edges.
+- A standalone Buddhist philosophy graph (buddhist-philosophy-graph on HuggingFace, 54,320 edges) extends coverage to nine schools: Theravada, Madhyamaka, Yogacara, Mahayana, Chan, Soto Zen, Nyingma, Kagyu, and Pure Land. Per-school betweenness centrality shows each tradition's distinct philosophical centre: dukkha for Theravada, pratityasamutpada for Madhyamaka, buddha-nature for Chan. Cross-school shortest paths reveal direct structural connections, such as anatta to buddha-nature in one step.
 
 ```bash
 cd diachronic/
@@ -177,6 +183,7 @@ darshana-temporal-analysis/
 | jain_edges.jsonl | [HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) | 3,659 | Jain canonical extraction — Tattvarthasutra, Samayasara, Acaranga Sutra. School label: jainism. |
 | non_vedic_edges.jsonl | [HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) | 21,257 | Buddhist + Jain combined — for cross-tradition analysis without Vedantic corpus. |
 | darshana-graph v4 | [HuggingFace](https://huggingface.co/datasets/joyboseroy/darshana-graph) | 48,814 | v1 + Mahayana + Theravada + Jain canonical. Most complete version. |
+| buddhist-philosophy-graph | [HuggingFace](https://huggingface.co/datasets/joyboseroy/buddhist-philosophy-graph) | 54,320 | Standalone Buddhist graph, 9 schools, kept separate from darshana-graph |
 
 **Mahayana source texts extracted:** Heart Sutra (Hsuan Hua commentary), Mulamadhyamakakarika (Kalupahana), Lankavatara Sutra (Suzuki), Lotus Sutra, Vimalakirti Nirdesa Sutra, Bodhicaryavatara (Shantideva/Wallace), Platform Sutra, Treasury of Mahayana Sutras (Maharatnakuta), Surangama Sutra, Diamond Sutra commentary, Ksitigarbha Sutra, Three Pure Land Sutras.
 
@@ -202,6 +209,15 @@ darshana-temporal-analysis/
 ## Citation
 
 ```bibtex
+@article{bose2026darshanagraph,
+  author = {Bose, Joy},
+  title = {Darshana Graph: A Parallel Commentary Corpus for Comparative
+           Indian Philosophy, with Stylometric and Exploratory Graph Analyses},
+  year = {2026},
+  journal = {arXiv preprint},
+  url = {https://arxiv.org/abs/2606.18222}
+}
+
 @article{bose2026attribution,
   author = {Bose, Joy},
   title = {Attribution Bias in Philosophical Knowledge Graphs:
@@ -211,19 +227,19 @@ darshana-temporal-analysis/
   url = {https://arxiv.org/abs/2606.29070}
 }
 
-@software{bose2026darshana,
+@dataset{bose2026adarshana,
   author = {Bose, Joy},
-  title = {darshana-temporal-analysis: Computational Studies of
-           Indian Philosophical Traditions},
-  year = {2026},
-  url = {https://github.com/joyboseroy/darshana-temporal-analysis}
-}
-
-@dataset{bose2025darshana,
-  author = {Bose, Joy},
-  title = {darshana-graph: A Knowledge Graph of Indian Philosophy},
+  title = {Darshana Graph: A Knowledge Graph of Indian Philosophy},
   year = {2025},
   url = {https://huggingface.co/datasets/joyboseroy/darshana-graph}
+}
+
+@dataset{bose2026buddhist,
+  author = {Bose, Joy},
+  title = {Buddhist Philosophy Graph: A Text-Grounded Knowledge Graph
+           of Buddhist Traditions},
+  year = {2026},
+  url = {https://huggingface.co/datasets/joyboseroy/buddhist-philosophy-graph}
 }
 ```
 
